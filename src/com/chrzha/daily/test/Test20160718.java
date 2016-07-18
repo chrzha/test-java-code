@@ -1,3 +1,4 @@
+package com.chrzha.daily.test;
 
 public class Test20160718 {
 
