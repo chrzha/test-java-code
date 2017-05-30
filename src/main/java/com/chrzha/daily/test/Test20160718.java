@@ -1,11 +1,11 @@
 package com.chrzha.daily.test;
 
+import org.apache.commons.lang.StringUtils;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
-import org.apache.commons.lang.StringUtils;
 
 public class Test20160718 {
 
@@ -24,7 +24,6 @@ public class Test20160718 {
                 break;
             }
         }
-
         System.out.println(userLocalIp);
     }
 
